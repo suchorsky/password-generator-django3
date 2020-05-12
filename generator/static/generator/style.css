@@ -1,0 +1,14 @@
+input {
+  margin-top: 1.5em;
+}
+select {
+  margin-top: 1.5em;
+}
+div {
+  font-size: 150%;
+}
+
+.big-checkbox {
+  width: 0.7em;
+  height: 0.7em;
+}
